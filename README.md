@@ -1,0 +1,3 @@
+# INT2-Group-8-Flowers
+
+This repository contains the Python Notebook for an Image Classification Neural Network for the Oxford 102 Category Flower Dataset.
